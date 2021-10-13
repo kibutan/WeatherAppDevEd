@@ -33,7 +33,6 @@ window.addEventListener("load",()=>{
                 // FOrmula C->F
                 let celsius = (temperature -32) * (5/9);
 
-
                 // set Icon
                 setIcons(icon,document.querySelector(".icon"));
                 
