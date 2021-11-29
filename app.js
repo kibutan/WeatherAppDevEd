@@ -1,7 +1,6 @@
 // https://www.youtube.com/watch?v=wPElVpR1rwA
 // before bigin, DEMO cors push the button at below!
 //  https://cors-anywhere.herokuapp.com/corsdemo
-
 window.addEventListener("load",()=>{
     let long;
     let lat;
