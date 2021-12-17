@@ -28,7 +28,6 @@ window.addEventListener("load",()=>{
                 temperatureDegree.textContent = temperature;
                 temperatureDescription.textContent =summary;
                 locationTimezone.textContent = data.timezone
-
                 // FOrmula C->F
                 let celsius = (temperature -32) * (5/9);
 
