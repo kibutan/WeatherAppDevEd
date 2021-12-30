@@ -30,7 +30,6 @@ window.addEventListener("load",()=>{
                 locationTimezone.textContent = data.timezone
                 // FOrmula C->F
                 let celsius = (temperature -32) * (5/9);
-
                 // set Icon
                 setIcons(icon,document.querySelector(".icon"));
                 
